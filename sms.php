@@ -1,4 +1,6 @@
-Using PHP Technology, we have a sample program. However, you can use other technologies (ASP, ASP.net, JAVA, C++, Python, etc) by following same procedure. In your application, integrate the PHP programming codes as below by following the flow process.
+Using PHP Technology, we have a sample program. 
+However, you can use other technologies (ASP, ASP.net, JAVA, C++, Python, etc) by following same procedure. 
+In your application, integrate the PHP programming codes as below by following the flow process.
 
 /*****Server & Port Details********
  *** http://121.241.242.114:8080 **
